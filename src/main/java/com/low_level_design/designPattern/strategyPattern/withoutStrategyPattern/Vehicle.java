@@ -1,4 +1,4 @@
-package com.low_level_design.withoutStrategyPattern;
+package com.low_level_design.designPattern.strategyPattern.withoutStrategyPattern;
 
 public class Vehicle {
 
